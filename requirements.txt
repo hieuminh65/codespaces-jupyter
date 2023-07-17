@@ -5,3 +5,11 @@ pandas==1.5.3
 torch==1.12.1
 torchvision==0.13.1
 tqdm==4.64.0
+keras==2.13.1
+tensorflow==2.13.0
+librosa==0.10.0.post2
+np_utils==0.6.0
+sklearn==0.0.post5
+flask==2.3.2
+pydub==0.25.1
+onnxruntime==1.15.1
