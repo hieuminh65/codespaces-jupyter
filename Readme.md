@@ -34,9 +34,6 @@ Check out the postman image for visual representation.
 
 Your respond should be a string of the emotion.
 
-6. Link API on EC2 instance:
-http://ec2-3-15-240-87.us-east-2.compute.amazonaws.com:8000/process_data
-
 ## Contributing
 Fork or Clone the project and made changes to the code. Then create a pull request. New ideas and suggestions are always welcome.
 ## Privacy Policy
